@@ -1,0 +1,17 @@
+data
+
+weights
+
+log
+
+*.ckpt
+
+__pycache__
+
+.vscode
+
+*_test.py
+
+.conda
+
+.cache
